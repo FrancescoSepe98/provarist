@@ -18,3 +18,8 @@ Ristorante Gruppo 3
 -Filetto di maiale con salsa al vino.                                                                            35,00€
 -Costoletta alla milanese.                                                                                       10,00€
 -Braciole di maiale con crema di zucca e taleggio.                                                               17,00€
+
+BIBITE
+- Acqua
+- PEPSI
+- Birra                                                                                                         3,50£
