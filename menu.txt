@@ -25,3 +25,7 @@ BIBITE
 - PEPSI
 - Birra                                                                                                         3,50£
 
+DESSERT
+-Cheesecake                                                                                                     17,00€
+-Bigne'                                                                                                         35,00€
+
